@@ -2,7 +2,7 @@
   "name": "marked-iframe",
   "description": "A fork of the marked module that adds iframe support",
   "author": "Rene-Jacques Riel",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "./lib/marked.js",
   "bin": "./bin/marked",
   "man": "./man/marked.1",
